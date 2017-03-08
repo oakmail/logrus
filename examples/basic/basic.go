@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/trtlio/logrus"
+	"github.com/oakmail/logrus"
 	// "os"
 )
 

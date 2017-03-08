@@ -3,7 +3,7 @@ package test
 import (
 	"io/ioutil"
 
-	"github.com/trtlio/logrus"
+	"github.com/oakmail/logrus"
 )
 
 // test.Hook is a hook designed for dealing with logs in test scenarios.

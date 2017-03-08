@@ -1,7 +1,7 @@
 package logrus_syslog
 
 import (
-	"github.com/trtlio/logrus"
+	"github.com/oakmail/logrus"
 	"log/syslog"
 	"testing"
 )
